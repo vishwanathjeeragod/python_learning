@@ -12,8 +12,8 @@ Today, I started exploring the basics of Python programming, understanding how P
 - Printing output using `print()`
 
 
-##Day 2
-**Topics Covered
+## Day 2
+**Topics Covered**
 -Taking user input using the input() function
 -Converting input data types (int(), float(), str())
 -Understanding string basics
