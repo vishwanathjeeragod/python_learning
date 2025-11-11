@@ -27,3 +27,11 @@ Today, I started exploring the basics of Python programming, understanding how P
 3. Different Data Types in Python
 4. Using the type() function
 5. Examples of each data type
+
+## Day4
+**Topics Covered**
+1. What is Type Casting
+2. Types of Type Casting (Implicit & Explicit)
+3. Common Type Conversion Functions
+4. Example Programs
+5. One Coding Exercise: Average of Numeric Values
