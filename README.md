@@ -35,3 +35,14 @@ Today, I started exploring the basics of Python programming, understanding how P
 3. Common Type Conversion Functions
 4. Example Programs
 5. One Coding Exercise: Average of Numeric Values
+ 
+
+## Day5
+
+**Topics Covered**
+1. What are Arithmetic Operators
+2. Types of Arithmetic Operators
+3. What are Comparison Operators
+4. Types of Comparison Operators
+
+
