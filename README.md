@@ -46,3 +46,10 @@ Today, I started exploring the basics of Python programming, understanding how P
 4. Types of Comparison Operators
 
 
+## Day6
+**Topics Covered**
+1. What are Bitwise Operators
+2. Types of Bitwise Operators
+3. What are Logical Operators
+4. Types of Logical Operators
+5. Examples for Better Understanding
