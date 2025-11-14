@@ -53,3 +53,12 @@ Today, I started exploring the basics of Python programming, understanding how P
 3. What are Logical Operators
 4. Types of Logical Operators
 5. Examples for Better Understanding
+
+
+## Day7
+**Topics Covered**
+1. What are Identity Operators
+2. Types of Identity Operators
+3. What are Membership Operators
+4. Types of Membership Operators
+5. Simple Examples
