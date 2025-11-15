@@ -62,3 +62,12 @@ Today, I started exploring the basics of Python programming, understanding how P
 3. What are Membership Operators
 4. Types of Membership Operators
 5. Simple Examples
+
+## Day8
+**Topics Covered**
+1. What is an F-String?
+2. Why use F-Strings?
+3. F-String Examples
+4. What is the random module?
+5. Common random functions
+6. Simple examples
