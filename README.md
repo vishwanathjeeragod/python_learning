@@ -71,3 +71,11 @@ Today, I started exploring the basics of Python programming, understanding how P
 4. What is the random module?
 5. Common random functions
 6. Simple examples
+
+## Day9
+**Topics Covered**
+1. What is an If statement?
+2. If-Else statement
+3. Elif statement
+4. Nested If-Else
+5. Simple examples
