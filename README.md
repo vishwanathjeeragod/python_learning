@@ -79,3 +79,10 @@ Today, I started exploring the basics of Python programming, understanding how P
 3. Elif statement
 4. Nested If-Else
 5. Simple examples
+
+## day10
+**Topics Covered**
+1. What are Multiple If Statements
+2. Syntax & Examples
+3. What is the random module
+4. Common random functions with examples
